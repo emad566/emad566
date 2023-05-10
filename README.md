@@ -5,7 +5,7 @@
 <a href="https://github.com/MinaFaried3?tab=repositories"><img style="   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%; " src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=2FA2D5&multiline=true&width=470&height=150&lines=%2F%2F+Hi+there+%F0%9F%91%8B;%7B;%22name%22++++++%3A+%22Emadeldeen+Soliman+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22+%2C;%22title%22+%3A+%22FullStack+Flutter+|+Laravel+Developer+%F0%9F%93%B1%22+%2C;%7D" alt="Emadeldeen Soliman" /></a>
+  width: 60%; " src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=2FA2D5&multiline=true&width=470&height=150&lines=%2F%2F+Hi+there+%F0%9F%91%8B;%7B;%22name%22++++++%3A+%22Emadeldeen+Soliman+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22+%2C;%22title%22+%3A+%22FullStack+Flutter/Laravel+Developer+%F0%9F%93%B1%22+%2C;%7D" alt="Emadeldeen Soliman" /></a>
 
 <p>
 I'm Emadeldeen from Sohag, Egypt. I have extensive experience in developing mobile applications for both Android and iOS platforms using the Flutter framework, as well as web applications using the Laravel PHP framework. With a strong understanding of Dart programming language, Material Design principles, and PHP programming language, I have developed and deployed successful applications on both mobile app stores and web platforms.
