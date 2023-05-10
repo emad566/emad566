@@ -6,7 +6,7 @@
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" target="_blank">     
         <span data-target="animated-image.imageContainer">
             <img data-target="animated-image.replacedImage" alt="adam-pw" class="AnimatedImagePlayer-animatedImage" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="500" height="500"></canvas></span></a>
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" style="width:100%" height="300"></canvas></span></a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play adam-pw" hidden=""></button>
         <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
           <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play adam-pw">
