@@ -77,10 +77,10 @@ I have a solid understanding of software development methodologies such as Agile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mina_eldihabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mina_eldihabi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/minafaried" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minafaried" height="30" width="40" /></a>
-<a href="https://fb.com/mina.f.eldihabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mina.f.eldihabi" height="30" width="40" /></a>
-<a href="https://instagram.com/mino_f.eldihabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mino_f.eldihabi" height="30" width="40" /></a>
+<a href="http://staffsites.sohag-univ.edu.eg/emadeldeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Emadeldeen Soliman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emadeldeen-soliman-abdaalh-b76b3675/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emadeldeen Soliman" height="30" width="40" /></a>
+<a href="https://www.facebook.com/emadeldeen.abdallahabdelhalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Emadeldeen Soliman" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=lnGQu80AAAAJ&hl=ar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="Emadeldeen Soliman" height="30" width="40" /></a>
 </p>
 
 
