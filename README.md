@@ -8,7 +8,7 @@
   width: 60%; " src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=2FA2D5&multiline=true&width=470&height=150&lines=%2F%2F+Hi+there+%F0%9F%91%8B;%7B;%22name%22++++++%3A+%22Mina+Faried+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22+%2C;%22title%22+%3A+%22Junior+Flutter+Developer+%F0%9F%93%B1%22+%2C;%7D" alt="Emadeldeen Soliman" /></a>
 
 <p>
-I'm Mina from Egypt, Sohag. I have extensive experience in developing mobile applications for both Android and iOS platforms using the Flutter framework, as well as web applications using the Laravel PHP framework. With a strong understanding of Dart programming language, Material Design principles, and PHP programming language, I have developed and deployed successful applications on both mobile app stores and web platforms.
+I'm Emadeldeen from Sohag, Egypt. I have extensive experience in developing mobile applications for both Android and iOS platforms using the Flutter framework, as well as web applications using the Laravel PHP framework. With a strong understanding of Dart programming language, Material Design principles, and PHP programming language, I have developed and deployed successful applications on both mobile app stores and web platforms.
 </p>
 
 <p>
@@ -37,6 +37,9 @@ I have a solid understanding of software development methodologies such as Agile
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://laravel.com/img/logomark.min.svg" alt="android" width="40" height="40" /> 
+    </a> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> 
     </a> 
