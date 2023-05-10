@@ -70,10 +70,10 @@ I have a solid understanding of software development methodologies such as Agile
 </p>
 
 ## 
-- 🔭 I’m currently working on Mobile App Development 
-- 🌱 I’m currently learning Flutter Framework 
+- 🔭 I’m currently working on Marvel company as FullStack developer 
+- 🌱 I’m bring my skills and experience to new challenges in mobile and web applications
 - 💬 Ask me about my projects 
-- 📫 How to reach me:  mina.el.dihabi3.6.9@gmail.com 
+- 📫 How to reach me:  emade09@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -84,12 +84,6 @@ I have a solid understanding of software development methodologies such as Agile
 </p>
 
 
-
-
-
-[![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaFaried3&&show_icons=true&theme=noctis_minimus&hide=contribs)](https://github.com/MinaFaried3?tab=repositories) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaFaried3&layout=compact&theme=noctis_minimus)](https://github.com/MinaFaried3?tab=repositories)
 
 
 
