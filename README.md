@@ -70,6 +70,9 @@ I have a solid understanding of software development methodologies such as Agile
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> 
     </a> 
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="sqlite" width="40" height="40" /> 
+    </a> 
 </p>
 
 ## 
