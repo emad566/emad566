@@ -1,7 +1,9 @@
 
 
 ![FullStack Flutter | Laravel Developer](https://github.com/emad566/emad566/blob/main/emad.jpg)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+    
 <a href="https://github.com/MinaFaried3?tab=repositories"><img style="   display: block;
   margin-left: auto;
   margin-right: auto;
