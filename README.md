@@ -26,13 +26,10 @@ I have a solid understanding of software development methodologies such as Agile
 * BLOC 
 * GEtX
 * PROVIDER
-* MVC 
-* MVVM
-* CLEAN ARHITECTURE
+* MVC | MVVM | ARHITECTURE
 * LARAVEL
 * PHP
 * REACT JS
-* PROBLEM-SOLVING
  
 
 <h3 align="left">Languages and Tools:</h3>
